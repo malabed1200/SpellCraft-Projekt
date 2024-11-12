@@ -19,8 +19,7 @@ class test {
         JLabel l = new JLabel("The quick brown fox jumped over the lazy dog. 0123456789");
         l.setFont(font);
 
-        // Zeige das JLabel in einem Dialogfeld an
-        JOptionPane.showMessageDialog(null, l);
+
     }
 }
 
