@@ -16,7 +16,7 @@ class test {
         ge.registerFont(font);
 
         // Erstelle ein JLabel, um die Schriftart anzuzeigen
-        JLabel l = new JLabel("The quick brown fox jumped over the lazy dog. 0123456789");
+
 
 
     }
