@@ -15,7 +15,7 @@ class test {
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         ge.registerFont(font);
 
-        // Erstelle ein JLabel, um die Schriftart anzuzeigen
+   
 
 
 
