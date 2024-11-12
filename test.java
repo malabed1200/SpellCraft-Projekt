@@ -12,10 +12,9 @@ class test {
         font = font.deriveFont(Font.PLAIN, 16);
 
         // Registriere die Schriftart im Grafik-Umfeld
-        GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
-        ge.registerFont(font);
+        GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment()
 
-   
+
 
 
 
