@@ -7,7 +7,7 @@ class test {
         // Der Pfad zur Schriftart-Datei auf deinem Computer
         File fontFile = new File("src/Minecraft/Minecraft-Regular.otf");
 
-        // Font wird aus der lokalen Datei geladen
+
         Font font = Font.createFont(Font.TRUETYPE_FONT, fontFile);
         font = font.deriveFont(Font.PLAIN, 16);
 
